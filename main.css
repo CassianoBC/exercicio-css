@@ -115,3 +115,12 @@ color: black;
     background-color: #5b21b6;
     color: black;
 }
+
+#tecnology {
+    background-color: #fb7185;
+}
+
+#tecnology .articles article a {
+    background-color: #be123c;
+    color: black;
+}
