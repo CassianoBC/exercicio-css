@@ -104,4 +104,14 @@ color: black;
 
 #economy .articles article a {
     background-color: #f59e0b;
+    color: black;
+}
+
+#games {
+    background-color: #d8b4fe;
+}
+
+#games .articles article a {
+    background-color: #5b21b6;
+    color: black;
 }
