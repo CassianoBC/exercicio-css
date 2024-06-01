@@ -16,11 +16,12 @@ header .container{
     justify-content: space-between;
 }
 
-header li {
+header li, h1 {
     display: inline;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-left: 16px;
+    margin-right: 16px;
 }
 
 header li a {
@@ -29,7 +30,7 @@ header li a {
 }
 
 .container {
-    width: 1366px;
+    width: auto;
     margin: 0 auto;
 }
 
@@ -53,6 +54,8 @@ section{
 section h2,
 .articles article{
     margin-bottom: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .articles article h3{
